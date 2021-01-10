@@ -1,5 +1,5 @@
 @echo off
 
 title DDoS Attack By Tore
-cd "ddos-attack"
+cd "code"
 node ddos
